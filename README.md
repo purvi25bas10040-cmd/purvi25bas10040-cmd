@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Purvi 👋
+
+I'm a first year B.Tech student at VIT Bhopal University.
+
+Right now I'm learning new things and trying to build my skills step by step.
+
+I'm interested in technology and I want to explore different fields and work on projects in the coming years.
 
 <!--
 **purvi25bas10040-cmd/purvi25bas10040-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
